@@ -1,12 +1,13 @@
 
 🚨 Offline AI CCTV — Smart Surveillance Dashboard
 Local-first AI CCTV system for real-time person detection, live people counting, snapshots, and video recording.
+<img width="1024" height="1024" alt="image1" src="https://github.com/user-attachments/assets/00232b3b-07a6-4d86-9697-f2da8932b521" />
+<img width="544" height="393" alt="image2" src="https://github.com/user-attachments/assets/503a426f-0780-4fc7-95e8-9f94633eff78" />
+<img width="1320" height="826" alt="image3" src="https://github.com/user-attachments/assets/f00e4bbd-8023-4698-8b91-875722dba8fa" />
 
- 
- 
- 
- 
- 
+
+
+
 📸 Dashboard Preview
 Important: Put your screenshot inside docs/images/dashboard.png.
 Then this Markdown will display it automatically:
